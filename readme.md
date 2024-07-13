@@ -1,4 +1,3 @@
-````markdown
 # Vitest JavaScript Example
 
 This is an example project demonstrating how to use Vite with Vitest for unit testing in JavaScript.
@@ -114,4 +113,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ```
 
 ```
-````
