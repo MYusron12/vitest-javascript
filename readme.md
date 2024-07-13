@@ -15,11 +15,11 @@ This is an example project demonstrating how to use Vite with Vitest for unit te
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/MYusron12/vitest-javascript.git
    cd vitest-javascript
    ```
-````
 
 2. Install dependencies:
    ```bash
@@ -114,3 +114,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ```
 
 ```
+````
